@@ -1,26 +1,21 @@
 ---
-title: "Welcome to Tranquilpeak 0.5.3-BETA"
-date: 2015-06-15
+title: "This is my first post"
+date: 2020-03-08
 categories:
 - tranquilpeak
 - releases
 tags:
-- hexo theme
-- responsive
-- gravatar
-- disqus
-- google analytics
+- blogpost
 keywords:
-- disqus
-- google
-- gravatar
+- blogpost
+- firsttime
 autoThumbnailImage: false
 thumbnailImagePosition: "top"
 thumbnailImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city-750.jpg
 coverImage: //d1u9biwaxjngwg.cloudfront.net/welcome-to-tranquilpeak/city.jpg
 metaAlignment: center
 ---
-Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.
+This is the first post from the site
 <!--more-->
 
 ![Tranquilpeak](/img/showcase.png)
