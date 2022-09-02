@@ -5,6 +5,12 @@ menu:
     name: "CV"
 ---
 
+{{< rawhtml >}}
+  <p class="speshal-fancy-custom">
+    This is <strong>raw HTML</strong>, inside Markdown.
+  </p>
+{{< /rawhtml >}}
+
 ## Consultant
 
 # Work
@@ -32,4 +38,5 @@ Helping out in the internal IT support team. Tasks includes configuring new lapt
 # Certifications
 - July 2020: AZ-400 DevOps Engineer Expert
 - Dec 2019: AZ-104 Azure Administrator Associate
+
 
