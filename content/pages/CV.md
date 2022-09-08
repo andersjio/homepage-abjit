@@ -44,7 +44,8 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 Nov 2020 - Mar 2022\
 MobilizedConstruction
 
-Part of the internal Build and Deploy team (aka devops), where task includes all parts of the CI/CD pipelines and flows. Also helping developers debug pipelines and code issues. 
+My responsibilites includes developing and maintaining the infrastructure in Kubernetes (AWS), working on regular development tasks and supporting the data science team (MLOps).
+Daily tasks includes CI/CD tasks (Gitlab), updating infrastructure (Terraform), containerization (Kubernetes) , and development of containerized microservices (Python)
 
 **Tools and technologies:** Jenkins, Git,Java,Groovy,Python
 
@@ -61,7 +62,8 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 Oct 2019 - Oct 2020\
 NNIT
 
-Part of the internal Build and Deploy team (aka devops), where task includes all parts of the CI/CD pipelines and flows. Also helping developers debug pipelines and code issues. 
+Part of a dedicated DevOps team working with and helping NNIT’s internal development teams and customers. The tasks are primarily solved using Azure, Terraform and Azure Devops. Beside this, I am also mentoring junior members of the team and helps guide the overall devops strategy and solutions. 
+Customers include AP Pension (iac), NNE (containerization platform) and Danmarks Apotekerforening (release frequency)
 
 **Tools and technologies:** Jenkins, Git,Java,Groovy,Python
 
@@ -80,7 +82,13 @@ Jun 2015 - Aug 2017\
 Schantz, a Keylane company
 
 
-Part of the internal Build and Deploy team (aka devops), where task includes all parts of the CI/CD pipelines and flows. Also helping developers debug pipelines and code issues. 
+Responsible for all aspects of CI/CD processes: 
+-  Jenkins - pipeline, job-dsl
+-  Container orchestration - docker swarm
+-  Git - branching strategy & developer support
+-  Scripts - python, powershell, groovy, bash
+-  Development of internal deploy tool
+-  Automation of repetitive tasks
 
 **Tools and technologies:** Jenkins, Git,Java,Groovy,Python
 
@@ -99,7 +107,7 @@ Jun 2015 - Aug 2017\
 Schantz
 
 
-Part of the internal Build and Deploy team (aka devops), where task includes all parts of the CI/CD pipelines and flows. Also helping developers debug pipelines and code issues. 
+Part of a minor team which is responsible for all tasks and areas related to automation and CI/CD. Working on a daily basis with automation scripts in Python and Powershell and creating and maintaining Jenkins jobs
 
 **Tools and technologies:** Jenkins, Git,Java,Groovy,Python
 
@@ -131,7 +139,7 @@ Helping out in the internal IT support team. Tasks includes configuring new lapt
 
 <!-- Msc @ ITU --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 15%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
 
 ### Master of Science (M.Sc)
@@ -145,7 +153,7 @@ IT University of Copenhagen
 
 <!-- Bsc @ ITU --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 15%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
 
 ### Bachelor of Science (B.Sc)
