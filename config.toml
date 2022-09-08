@@ -25,4 +25,4 @@ paginate = 3
   addFrame = false
   addDot = false
 
-  highlightColor = 'green'
+  highlightColor = '#30548E'
