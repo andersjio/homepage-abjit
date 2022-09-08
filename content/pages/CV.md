@@ -131,44 +131,63 @@ Helping out in the internal IT support team. Tasks includes configuring new lapt
 
 <!-- Msc @ ITU --->
 {{< rawhtml >}}
-<img  style="float: right; height: 115px" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
-### Master of Science (M.Sc) in Software Development
+
+### Master of Science (M.Sc)
+Software Development
 
 ###
-Jan 2014 - Jun 2015\
-Schantz
+Sep 2014 - Jun 2017\
+IT University of Copenhagen
 
-Helping out in the internal IT support team. Tasks includes configuring new laptops and phones, resolve network and server issues and general ad-hoc support to people within the organization
+&nbsp;
 
-- 2014 - 2017: Master of Science (M.Sc) in Software Development
-- 2011 - 2014: Bachelor of Science (B.Sc) in Software Development
-
-
+<!-- Bsc @ ITU --->
 {{< rawhtml >}}
 <img  style="float: right; width: 20%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
+
+### Bachelor of Science (B.Sc)
+Software Development
+
+###
+August 2011 - Jun 2014\
+IT University of Copenhagen
 
 
 &nbsp;
 
 <!--- CERTIFICATIONS --->
 {{< rawhtml >}}
-<center>
-    <h1>Certifications</h1>
-  </center>
+    <h1 style="text-align: center;">Certifications</h1>
 {{< /rawhtml >}}
 
 --- 
-# Certifications
+<!--  AZ-400 --->
 {{< rawhtml >}}
 <img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
-- July 2020: AZ-400 DevOps Engineer Expert
-{{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="MarineGEO circle logo"/>
-{{< /rawhtml >}}
-- Dec 2019: AZ-104 Azure Administrator Associate
 
+### DevOps Engineer Expert
+AZ-400
+
+###
+Jul 2020\
+Microsoft Azure
+
+&nbsp;
+
+<!--  AZ-400 --->
+{{< rawhtml >}}
+<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="MarineGEO circle logo"/>
+{{< /rawhtml >}}
+
+### Azure Administrator Associate
+AZ-104
+
+###
+Dec 2019\
+Microsoft Azure
 
 
