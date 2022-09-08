@@ -124,12 +124,22 @@ Helping out in the internal IT support team. Tasks includes configuring new lapt
 
 <!--- EDUCATION --->
 {{< rawhtml >}}
-<center>
-    <h1>Education</h1>
-  </center>
+    <h1 style="text-align: center;">Education</h1>
 {{< /rawhtml >}}
 
 --- 
+
+<!-- Msc @ ITU --->
+{{< rawhtml >}}
+<img  style="float: right; height: 115px" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
+{{< /rawhtml >}}
+### Master of Science (M.Sc) in Software Development
+
+###
+Jan 2014 - Jun 2015\
+Schantz
+
+Helping out in the internal IT support team. Tasks includes configuring new laptops and phones, resolve network and server issues and general ad-hoc support to people within the organization
 
 - 2014 - 2017: Master of Science (M.Sc) in Software Development
 - 2011 - 2014: Bachelor of Science (B.Sc) in Software Development
