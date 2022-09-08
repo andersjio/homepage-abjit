@@ -13,7 +13,7 @@ menu:
 
 <!-- Shure (freelance) --->
 {{< rawhtml >}}
-<img  style="float: right; height: 130px" src="/images/logo-shure.jpeg" alt="Shure logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-shure.jpeg" alt="Shure logo"/>
 {{< /rawhtml >}}
 
 &nbsp;
@@ -34,7 +34,7 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 
 <!-- MobilizedConstruction --->
 {{< rawhtml >}}
-<img  style="float: right; height: 130px" src="/images/logo-mobilizedconstruction.jpeg" alt="Mobilizedconstruction logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-mobilizedconstruction.jpeg" alt="Mobilizedconstruction logo"/>
 {{< /rawhtml >}}
 
 &nbsp;
@@ -54,7 +54,7 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 
 <!-- NNIT --->
 {{< rawhtml >}}
-<img  style="float: right; height: 45px" src="/images/logo-nnit.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-nnit.png" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
 ### Devops Engineer
 
@@ -71,7 +71,7 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 
 <!-- Keylane --->
 {{< rawhtml >}}
-<img  style="float: right; height: 45px" src="/images/logo-keylane.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-keylane.png" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
 ### Build engineer
 
@@ -90,7 +90,7 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 
 <!-- Schantz --->
 {{< rawhtml >}}
-<img  style="float: right; height: 115px" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
 ### Student Developer
 
@@ -109,7 +109,7 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 
 <!-- Schantz --->
 {{< rawhtml >}}
-<img  style="float: right; height: 115px" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
 {{< /rawhtml >}}
 ### IT Support Assistant
 
@@ -145,8 +145,30 @@ Helping out in the internal IT support team. Tasks includes configuring new lapt
 - 2011 - 2014: Bachelor of Science (B.Sc) in Software Development
 
 
+{{< rawhtml >}}
+<img  style="float: right; width: 20%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
+{{< /rawhtml >}}
+
+
+&nbsp;
+
+<!--- CERTIFICATIONS --->
+{{< rawhtml >}}
+<center>
+    <h1>Certifications</h1>
+  </center>
+{{< /rawhtml >}}
+
+--- 
 # Certifications
+{{< rawhtml >}}
+<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="MarineGEO circle logo"/>
+{{< /rawhtml >}}
 - July 2020: AZ-400 DevOps Engineer Expert
+{{< rawhtml >}}
+<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="MarineGEO circle logo"/>
+{{< /rawhtml >}}
 - Dec 2019: AZ-104 Azure Administrator Associate
+
 
 
