@@ -16,7 +16,6 @@ menu:
 <img  style="float: right; width: 20%" src="/images/logo-shure.jpeg" alt="Shure logo"/>
 {{< /rawhtml >}}
 
-&nbsp;
 
 ### DevOps Engineer (freelance)
 
@@ -37,7 +36,6 @@ Part of the internal Build and Deploy team (aka devops), where task includes all
 <img  style="float: right; width: 20%" src="/images/logo-mobilizedconstruction.jpeg" alt="Mobilizedconstruction logo"/>
 {{< /rawhtml >}}
 
-&nbsp;
 
 ### DevOps Engineer
 
