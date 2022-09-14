@@ -22,11 +22,15 @@ menu:
 Mar 2022 - Present\
 Shure Nordic
 
-Part of the internal Build and Deploy team (aka devops), where task includes all parts of the CI/CD pipelines and flows. Also helping developers debug pipelines and code issues. 
+Brought into the globally distributed internal Devops Team to provide general help and support with CI & CD tasks and specfically improve and scale their internal build (CI) capacity using AWS. The team also needed help getting started using EKS and Kubernetes in general, which I also provided.
 
-**Tools and technologies:** Jenkins, Git,Java,Groovy,Python
+**Tools and technologies:** Jenkins, Python, EKS, NPM, Bitbucket, Confluence & Jira 
 
-**Projects**: someproject2
+**Projects**: 
+- Designed and implemented an internal Dockerhub clone
+- Improved observability across the CI/CD stack using Grafana
+- Enabled Jenkins to utilize EKS (dynamic build farm)
+- Reduced legacy script and code within the Devops team
 
 &nbsp;
 
@@ -45,9 +49,11 @@ MobilizedConstruction
 My responsibilites includes developing and maintaining the infrastructure in Kubernetes (AWS), working on regular development tasks and supporting the data science team (MLOps).
 Daily tasks includes CI/CD tasks (Gitlab), updating infrastructure (Terraform), containerization (Kubernetes) , and development of containerized microservices (Python)
 
-**Tools and technologies:** Jenkins, Git,Java,Groovy,Python
+**Tools and technologies:** Kubernetes, Python, Gitlab, DVC, AWS, Terraform, Vue
 
-**Projects**: someproject2
+**Projects**: 
+- Hydra (fully automated image and video processing tool using k8s)
+- Guding and supporting the development on our Vue frontend
 
 &nbsp;
 
@@ -63,9 +69,9 @@ NNIT
 Part of a dedicated DevOps team working with and helping NNIT’s internal development teams and customers. The tasks are primarily solved using Azure, Terraform and Azure Devops. Beside this, I am also mentoring junior members of the team and helps guide the overall devops strategy and solutions. 
 Customers include AP Pension (iac), NNE (containerization platform) and Danmarks Apotekerforening (release frequency)
 
-**Tools and technologies:** Jenkins, Git,Java,Groovy,Python
+**Tools and technologies:** Terraform, Azure Devops, Azure, Powershell
 
-**Projects**: someproject2
+**Projects**: N/A
 
 &nbsp;
 
