@@ -2,9 +2,5 @@
 The goal of the blog post is to run a simple job, specified with a Jenkinsfile, on a dynamically created pods in Kubernetes.
 prereqs. A running Jenkins A running Kubernetes cluster</description></item><item><title>About</title><link>https://abjit.dk/pages/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://abjit.dk/pages/about/</guid><description>About Coming soon</description></item><item><title>CV</title><link>https://abjit.dk/pages/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://abjit.dk/pages/cv/</guid><description>Work DevOps Engineer (freelance) Mar 2022 - Present
 Shure Nordic
-Part of the internal Build and Deploy team (aka devops), where task includes all parts of the CI/CD pipelines and flows. Also helping developers debug pipelines and code issues.
-Tools and technologies: Jenkins, Git,Java,Groovy,Python
-Projects: someproject2
-DevOps Engineer Nov 2020 - Mar 2022
-MobilizedConstruction
-My responsibilites includes developing and maintaining the infrastructure in Kubernetes (AWS), working on regular development tasks and supporting the data science team (MLOps).</description></item></channel></rss>
+Brought into the globally distributed internal Devops Team to provide general help and support with CI &amp;amp; CD tasks and specfically improve and scale their internal build (CI) capacity using AWS. The team also needed help getting started using EKS and Kubernetes in general, which I also provided.
+Tools and technologies: Jenkins, Python, EKS, NPM, Bitbucket, Confluence &amp;amp; Jira</description></item></channel></rss>
