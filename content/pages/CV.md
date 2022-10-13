@@ -30,7 +30,7 @@ Brought into the globally distributed internal Devops Team to provide general he
 - Designed and implemented an internal Dockerhub clone
 - Improved observability across the CI/CD stack using Grafana
 - Enabled Jenkins to utilize EKS (dynamic build farm)
-- Reduced legacy script and code within the Devops team
+- Reduced legacy code within the Devops team
 
 &nbsp;
 
@@ -53,31 +53,30 @@ Daily tasks includes CI/CD tasks (Gitlab), updating infrastructure (Terraform), 
 
 **Projects**: 
 - Hydra (fully automated image and video processing tool using k8s)
-- Guding and supporting the development on our Vue frontend
+- Leading and supporting the development on our Vue frontend
+- Automating the data collection from IoT device to processed video and image
 
 &nbsp;
 
 <!-- NNIT --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-nnit.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-nnit.png" alt="NNIT logo"/>
 {{< /rawhtml >}}
 ### Devops Engineer
 
 Oct 2019 - Oct 2020\
 NNIT
 
-Part of a dedicated DevOps team working with and helping NNIT’s internal development teams and customers. The tasks are primarily solved using Azure, Terraform and Azure Devops. Beside this, I am also mentoring junior members of the team and helps guide the overall devops strategy and solutions. 
-Customers include AP Pension (iac), NNE (containerization platform) and Danmarks Apotekerforening (release frequency)
+Part of a dedicated DevOps team working with and helping NNIT’s internal development teams and customers. The tasks are primarily solved using Azure, Terraform and Azure Devops. Beside this, I am also mentoring junior members on the team and provide input to guide the overall DevOps strategy and solutions. 
+Customers included AP Pension (IAC), NNE (containerization platform) and Danmarks Apotekerforening (release frequency)
 
 **Tools and technologies:** Terraform, Azure Devops, Azure, Powershell
-
-**Projects**: N/A
 
 &nbsp;
 
 <!-- Keylane --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-keylane.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-keylane.png" alt="Keylane logo"/>
 {{< /rawhtml >}}
 ### Build engineer
 
@@ -86,23 +85,21 @@ Jun 2015 - Aug 2017\
 Schantz, a Keylane company
 
 
-Responsible for all aspects of CI/CD processes: 
--  Jenkins - pipeline, job-dsl
--  Container orchestration - docker swarm
--  Git - branching strategy & developer support
--  Scripts - python, powershell, groovy, bash
--  Development of internal deploy tool
--  Automation of repetitive tasks
+Sharing the responsibility for all aspects of CI/CD processes within a small Devops team. The daily work was primarily Jenkins (pipelines and job-dsl), various python scripts used for automation and maintenance of Docker Swarm, which hosted staging and production environments for several Keylane products. 
 
-**Tools and technologies:** Jenkins, Git,Java,Groovy,Python
+Additionally, I spend time developing an internal tool, which enabled stakeholders and developers to deploy staging environments into the Docker Swarm using a browser-based frontend built in React and a Flask server interacting with the Jenkins API.
 
-**Projects**: someproject1
+**Tools and technologies:** Jenkins, Git, Java, Groovy, Python, React
+
+**Projects**: 
+- Draupnir (internal deploy tool)
+- Establishing and implementing Docker Swarm
 
 &nbsp;
 
 <!-- Schantz --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-schantz.png" alt="Schantz logo"/>
 {{< /rawhtml >}}
 ### Student Developer
 
@@ -113,15 +110,14 @@ Schantz
 
 Part of a minor team which is responsible for all tasks and areas related to automation and CI/CD. Working on a daily basis with automation scripts in Python and Powershell and creating and maintaining Jenkins jobs
 
-**Tools and technologies:** Jenkins, Git,Java,Groovy,Python
+**Tools and technologies:** Jenkins, Git, Java, Groovy, Python
 
-**Projects**: someproject
 
 &nbsp;
 
 <!-- Schantz --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-schantz.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-schantz.png" alt="Schantz logo"/>
 {{< /rawhtml >}}
 ### IT Support Assistant
 
@@ -143,7 +139,7 @@ Helping out in the internal IT support team. Tasks includes configuring new lapt
 
 <!-- Msc @ ITU --->
 {{< rawhtml >}}
-<img  style="float: right; width: 15%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 15%" src="/images/logo-itu.jpeg" alt="ITU logo"/>
 {{< /rawhtml >}}
 
 ### Master of Science (M.Sc)
@@ -157,7 +153,7 @@ IT University of Copenhagen
 
 <!-- Bsc @ ITU --->
 {{< rawhtml >}}
-<img  style="float: right; width: 15%" src="/images/logo-itu.jpeg" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 15%" src="/images/logo-itu.jpeg" alt="ITU logo"/>
 {{< /rawhtml >}}
 
 ### Bachelor of Science (B.Sc)
@@ -178,7 +174,7 @@ IT University of Copenhagen
 --- 
 <!--  AZ-400 --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="Azure logo"/>
 {{< /rawhtml >}}
 
 ### DevOps Engineer Expert
@@ -192,7 +188,7 @@ Microsoft Azure
 
 <!--  AZ-400 --->
 {{< rawhtml >}}
-<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="MarineGEO circle logo"/>
+<img  style="float: right; width: 20%" src="/images/logo-azure.png" alt="Azure logo"/>
 {{< /rawhtml >}}
 
 ### Azure Administrator Associate
