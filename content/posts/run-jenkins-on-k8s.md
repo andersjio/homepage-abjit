@@ -2,7 +2,7 @@
 title: "Run Jenkins on K8s"
 date: 2022-09-01T16:12:08+02:00
 description: 'Blog post about running Jenkins build nodes on k8s'
-draft: false
+draft: true
 image: images/cctv.jpeg
 ---
 

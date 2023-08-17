@@ -1,6 +1,6 @@
 ---
-title: Welcome
+title:
 description: This is the description
 ---
 
-(null)
+*I figure stuff out as I go and try to write about it*

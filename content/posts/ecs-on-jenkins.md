@@ -1,7 +1,7 @@
 ---
 title: "ECS on Jenkins"
 date: 2023-08-17T09:44:39+02:00
-description: 'Running ECS in Jenkins'
+description: 'Using ECS labels in Jenkinsfiles'
 image: images/ecs-jenkins-logo.png
 draft: false
 ---
