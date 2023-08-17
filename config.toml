@@ -18,6 +18,7 @@ paginate = 3
 [params]
   google_analytics_id = "G-Y09B98XSRM"
   twitter_handle = "@"
+  custom_css = ["css/custom_style.css"]
 
   showAuthorOnHomepage = true
   showAuthorOnPosts = true
