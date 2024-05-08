@@ -20,17 +20,22 @@ menu:
 ### DevOps Engineer (freelance)
 
 Mar 2022 - Present\
-Shure Nordic
+Shure Nordic (renewed 2 times)
 
-Brought into the globally distributed internal Devops Team to provide general help and support with CI & CD tasks and specfically improve and scale their internal build (CI) capacity using AWS. The team also needed help getting started using EKS and Kubernetes in general, which I also provided.
+Joined the globally distributed internal DevOps team with a focus on providing assistance and support for CI/CD tasks and helping the team getting started in AWS. My key responsibilities involved enhancing and scaling the team's internal build (CI) capacity utilizing AWS infrastructure. Additionally, I implemented a proof-of-concept for dynamically scaling infrastructure using EKS deployed with AWS CDK.
+
+In addition to these, I actively contributed to routine DevOps and CI/CD tasks while driving general improvements in these domains. Since autumn 2023, I played a vital role in the development of an internal CLI tool utilizing Python and the Typer CLI framework. This CLI served as a unifying solution for streamlining CI/CD operations throughout the organization.
+
 
 **Tools and technologies:** Jenkins, Python, EKS, NPM, Bitbucket, Confluence & Jira 
 
 **Projects**: 
-- Designed and implemented an internal Dockerhub clone
+- Designed and implemented an internal Dockerhub clone (Python)
 - Improved observability across the CI/CD stack using Grafana
 - Enabled Jenkins to utilize EKS (dynamic build farm)
 - Reduced legacy code within the Devops team
+- Deployed services to ECS using AWS CDK (Python)
+- 
 
 &nbsp;
 
@@ -52,9 +57,10 @@ Daily tasks includes CI/CD tasks (Gitlab), updating infrastructure (Terraform), 
 **Tools and technologies:** Kubernetes, Python, Gitlab, DVC, AWS, Terraform, Vue
 
 **Projects**: 
-- Hydra (fully automated image and video processing tool using k8s)
+- Hydra (fully automated image and video processing tool using k8s) (Python)
 - Leading and supporting the development on our Vue frontend
-- Automating the data collection from IoT device to processed video and image
+- Automating the data collection from IoT device to processed video and image (from Android devices)
+- Maintaining and operation Kubernetes cluster (deployed with KOPS in AWS)
 
 &nbsp;
 
