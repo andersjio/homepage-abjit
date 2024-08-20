@@ -87,7 +87,7 @@ Customers included AP Pension (IAC), NNE (containerization platform) and Danmark
 ### Build engineer
 
 
-Jun 2015 - Aug 2017\
+Jun Aug 2017 - Oct 2019\
 Schantz, a Keylane company
 
 
